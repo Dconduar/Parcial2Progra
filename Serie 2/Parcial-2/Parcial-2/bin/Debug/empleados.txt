@@ -1,0 +1,2 @@
+EmpleadoTiempoCompleto,Diego Contreras,15000
+EmpleadoTiempoCompleto,Diego Contreras,15000
